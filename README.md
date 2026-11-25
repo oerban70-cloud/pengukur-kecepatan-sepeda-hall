@@ -7,7 +7,7 @@ ESP32 menghitung pulsa tiap detik, mengubahnya jadi kilometer per jam, dan
 menampilkannya di LCD bersama jarak tempuh dan kecepatan tertinggi.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/ZE2176uQMTg
 
 ## Komponen
 
